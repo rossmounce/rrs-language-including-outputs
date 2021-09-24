@@ -1,0 +1,12 @@
+|Item type      |Journal                                              |Free_access OR gated?|Publisher       |Date published|DOI                                                                               |
+|---------------|-----------------------------------------------------|---------------------|----------------|--------------|----------------------------------------------------------------------------------|
+|Journal Article|ACS chemical biology                                 |free_access          |ACS Publications|09/04/2021    |[10.1021/acschembio.1c00034](https://doi.org/10.1021/acschembio.1c00034)          |
+|Journal Article|ACS nano                                             |free_access          |ACS Publications|22/06/2021    |[10.1021/acsnano.1c00218](https://doi.org/10.1021/acsnano.1c00218)                |
+|Journal Article|Energy & fuels: an American Chemical Society journal |gated                |ACS Publications|04/03/2021    |[10.1021/acs.energyfuels.0c04017](https://doi.org/10.1021/acs.energyfuels.0c04017)|
+|Journal Article|Journal of the American Society for Mass Spectrometry|free_access          |ACS Publications|19/04/2021    |[10.1021/jasms.1c00084](https://doi.org/10.1021/jasms.1c00084)                    |
+|Journal Article|Journal of chemical information and modeling         |free_access          |ACS Publications|26/07/2021    |[10.1021/acs.jcim.1c00168](https://doi.org/10.1021/acs.jcim.1c00168)              |
+|Journal Article|Journal of medicinal chemistry                       |free_access          |ACS Publications|12/08/2021    |[10.1021/acs.jmedchem.1c00806](https://doi.org/10.1021/acs.jmedchem.1c00806)      |
+|Journal Article|Journal of medicinal chemistry                       |free_access          |ACS Publications|12/08/2021    |[10.1021/acs.jmedchem.1c00717](https://doi.org/10.1021/acs.jmedchem.1c00717)      |
+|Journal Article|Journal of medicinal chemistry                       |gated                |ACS Publications|10/06/2021    |[10.1021/acs.jmedchem.1c00416](https://doi.org/10.1021/acs.jmedchem.1c00416)      |
+|Journal Article|The journal of physical chemistry. A                 |free_access          |ACS Publications|10/06/2021    |[10.1021/acs.jpca.1c00830](https://doi.org/10.1021/acs.jpca.1c00830)              |
+|Journal Article|JACS Au                                              |free_access          |ACS Publications|15/06/2021    |[10.1021/jacsau.1c00139](https://doi.org/10.1021/jacsau.1c00139)                  |
