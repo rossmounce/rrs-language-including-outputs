@@ -3,7 +3,7 @@
 |Journal Article|Addiction                                  |free_access          |Wiley    |16/04/2021    |[10.1111/add.15519](https://doi.org/10.1111/add.15519)            |
 |Journal Article|Am. J. Med. Genet. B Neuropsychiatr. Genet.|free_access          |Wiley    |03/05/2021    |[10.1002/ajmg.b.32842](https://doi.org/10.1002/ajmg.b.32842)      |
 |Journal Article|Ann. Clin. Transl. Neurol.                 |free_access          |Wiley    |2021-07       |[10.1002/acn3.51407](https://doi.org/10.1002/acn3.51407)          |
-|Journal Article|Ann. Neurol.                               |gated                |Wiley    |09/08/2021    |[10.1002/ana.26189](https://doi.org/10.1002/ana.26189)            |
+|Journal Article|Ann. Neurol.                               |gated at 2021-08-15 ungated at 2021-09-25     |Wiley    |09/08/2021    |[10.1002/ana.26189](https://doi.org/10.1002/ana.26189)            |
 |Journal Article|Chem.--Eur. J.                             |free_access          |Wiley    |2021          |[10.1002/chem.202101168](https://doi.org/10.1002/chem.202101168)  |
 |Journal Article|Ecol. Evol.                                |free_access          |Wiley    |2021-06       |[10.1002/ece3.7662](https://doi.org/10.1002/ece3.7662)            |
 |Journal Article|Evol. Lett.                                |free_access          |Wiley    |15/07/2021    |[10.1002/evl3.247](https://doi.org/10.1002/evl3.247)              |
