@@ -65,7 +65,7 @@
 |Journal Article        |Pediatr. Nephrol.                      |free_access           |Springer Nature BV     |24/05/2021        |[10.1007/s00467-021-05134-4](https://doi.org/10.1007/s00467-021-05134-4)    |
 |Journal Article        |Respir. Res.                           |free_access           |Springer Nature BV     |16/06/2021        |[10.1186/s12931-021-01768-y](https://doi.org/10.1186/s12931-021-01768-y)    |
 |Conference Paper       |Springer                               |free_access           |Springer Nature BV     |2021              |[10.1007/978-3-030-78230-6_26](https://doi.org/10.1007/978-3-030-78230-6_26)|
-|Journal Article        |Synthese                               |free_access;FWF-funded|Springer Nature BV     |09/03/2021        |[10.1007/s11229-021-03080-0](https://doi.org/10.1007/s11229-021-03080-0)    |
+|Journal Article        |Synthese                               |free_access           |Springer Nature BV     |09/03/2021        |[10.1007/s11229-021-03080-0](https://doi.org/10.1007/s11229-021-03080-0)    |
 |Journal Article        |Trop. Anim. Health Prod.               |free_access           |Springer Nature BV     |02/05/2021        |[10.1007/s11250-021-02734-y](https://doi.org/10.1007/s11250-021-02734-y)    |
 |Conference Book Chapter|N/A                                    |gated                 |Springer Nature BV     |2021              |[10.1007/978-3-030-73616-3_21](https://doi.org/10.1007/978-3-030-73616-3_21)|
 |Conference Book Chapter|N/A                                    |gated                 |Springer Nature BV     |2021              |[10.1007/978-3-030-80418-3_35](https://doi.org/10.1007/978-3-030-80418-3_35)|
