@@ -22,7 +22,7 @@
 |Journal Article|EClinicalMedicine                            |free_access          |Elsevier |01/09/2021    |[10.1016/j.eclinm.2021.101050](https://doi.org/10.1016/j.eclinm.2021.101050)          |
 |Journal Article|EClinicalMedicine                            |free_access          |Elsevier |13/07/2021    |[10.1016/j.eclinm.2021.101009](https://doi.org/10.1016/j.eclinm.2021.101009)          |
 |Journal Article|Health Place                                 |free_access          |Elsevier |29/06/2021    |[10.1016/j.healthplace.2021.102611](https://doi.org/10.1016/j.healthplace.2021.102611)|
-|Journal Article|Int. J. Fatigue                              |gated                |Elsevier |2021-08       |[10.1016/j.ijfatigue.2021.106480](https://doi.org/10.1016/j.ijfatigue.2021.106480)    |
+|Journal Article|Int. J. Fatigue                              |initially gated, later ungated                |Elsevier |2021-08       |[10.1016/j.ijfatigue.2021.106480](https://doi.org/10.1016/j.ijfatigue.2021.106480)    |
 |Journal Article|Int. J. Hyg. Environ. Health                 |free_access          |Elsevier |2021-06       |[10.1016/j.ijheh.2021.113766](https://doi.org/10.1016/j.ijheh.2021.113766)            |
 |Journal Article|Int. J. Infect. Dis.                         |gated                |Elsevier |19/06/2021    |[10.1016/j.ijid.2021.06.034](https://doi.org/10.1016/j.ijid.2021.06.034)              |
 |Journal Article|iScience                                     |free_access          |Elsevier |2021          |[10.1016/j.isci.2021.102870](https://doi.org/10.1016/j.isci.2021.102870)              |
