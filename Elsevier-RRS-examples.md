@@ -24,7 +24,7 @@
 |Journal Article|Health Place                                 |free_access          |Elsevier |29/06/2021    |[10.1016/j.healthplace.2021.102611](https://doi.org/10.1016/j.healthplace.2021.102611)|
 |Journal Article|Int. J. Fatigue                              |initially gated, later ungated                |Elsevier |2021-08       |[10.1016/j.ijfatigue.2021.106480](https://doi.org/10.1016/j.ijfatigue.2021.106480)    |
 |Journal Article|Int. J. Hyg. Environ. Health                 |free_access          |Elsevier |2021-06       |[10.1016/j.ijheh.2021.113766](https://doi.org/10.1016/j.ijheh.2021.113766)            |
-|Journal Article|Int. J. Infect. Dis.                         |gated                |Elsevier |19/06/2021    |[10.1016/j.ijid.2021.06.034](https://doi.org/10.1016/j.ijid.2021.06.034)              |
+|Journal Article|Int. J. Infect. Dis.                         |initially gated, later ungated                |Elsevier |19/06/2021    |[10.1016/j.ijid.2021.06.034](https://doi.org/10.1016/j.ijid.2021.06.034)              |
 |Journal Article|iScience                                     |free_access          |Elsevier |2021          |[10.1016/j.isci.2021.102870](https://doi.org/10.1016/j.isci.2021.102870)              |
 |Journal Article|iScience                                     |free_access          |Elsevier |21/05/2021    |[10.1016/j.isci.2021.102484](https://doi.org/10.1016/j.isci.2021.102484)              |
 |Journal Article|J. Am. Acad. Dermatol.                       |gated                |Elsevier |06/08/2021    |[10.1016/j.jaad.2021.07.066](https://doi.org/10.1016/j.jaad.2021.07.066)              |
